@@ -7,5 +7,5 @@ app.use('/', (req, res, next) => {
 })
 
 app.listen(3000, (_) => {
-    console.log('server is now listening on port 3000');
+    console.log('listening on port 3000');
 })
